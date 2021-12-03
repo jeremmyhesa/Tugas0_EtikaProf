@@ -6,6 +6,6 @@ Seperti halnya etika profesi, berarti etika tersebut harus dipatuhi dan diterapk
 # Pendekatan Etika
 Etika merupakan ilmu pengetahuan yang berhubungan dengan upaya menentukan perbuatan yang dilakukan manusia bisa dikatakan perbuatan yang baik atau buruk, dengan kata lain aturan atau pola tingkah laku yang dihasilkan oleh akal manusia. Etika bersifat "relative" yaitu berubah-ubah sesuai dengan perkembangan zaman dan sesuai dengan lingkungan sekitar berlakunya etika tersebut.
 
-    -Etika Deskriptif | Etika ini menggambarkan tingkah laku moral dalam arti luas, misalnya adat kebiasaan, asumsi-asumsi mengenai baik dan buruk, ataupun mengenai          sesuatu yang boleh dan tidak boleh dilakukan.
-    -Etika Normatif | Etika normatif tidak hanya mengemukakan fakta/deskripsi, namun juga sudah melakukan penilaian apakah ia menerima atau menolak suatu nilai atas          dasar pertimbangan moral dan prinsip-prinsip etis.
-    -Metaetika | Pendekatan lain mempraktekkan etika sebagai ilmu adalah metaetika yang bergerak pada level yang lebih tinggi dari sekedar perilaku etis, yaitu pada          taraf "bahasa etis" atau bahasa yang digunakan di bidang moral.
+    -Etika Deskriptif | Etika ini menggambarkan tingkah laku moral dalam arti luas, misalnya adat kebiasaan, asumsi-asumsi mengenai baik dan buruk, ataupun mengenai sesuatu yang boleh dan tidak boleh dilakukan.
+    -Etika Normatif | Etika normatif tidak hanya mengemukakan fakta/deskripsi, namun juga sudah melakukan penilaian apakah ia menerima atau menolak suatu nilai atas   dasar pertimbangan moral dan prinsip-prinsip etis.
+    -Metaetika | Pendekatan lain mempraktekkan etika sebagai ilmu adalah metaetika yang bergerak pada level yang lebih tinggi dari sekedar perilaku etis, yaitu pada   taraf "bahasa etis" atau bahasa yang digunakan di bidang moral.
