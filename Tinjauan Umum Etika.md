@@ -1,2 +1,2 @@
 Pengertian Etika
-Menurut Kamus besar Bahasa Indonesia, etika diartikan sebagai ilmu tentang apa yang baik dan apa yang buruk dan tentang hak dan kewajiban moral (akhlak)
+Menurut Kamus besar Bahasa Indonesia, etika diartikan sebagai ilmu tentang apa yang baik dan apa yang buruk dan tentang hak dan kewajiban moral (akhlak). Selain itu, etika merupakan kumpulan asas atau nilaiyang berkenaan dengan akhlak. Nilai yang dimaksud disini adalah nilai mengenai benar dan salah yang dianut suatu golongan atau masyarakat. Etika dapat diartikan sebagai ilmu mengenai nilai yang benar dan nilai yang salah, dan nilai-nilai tersebut dianut oleh suatu golongan masyarakat.
