@@ -9,3 +9,12 @@ Etika merupakan ilmu pengetahuan yang berhubungan dengan upaya menentukan perbua
     -Etika Deskriptif | Etika ini menggambarkan tingkah laku moral dalam arti luas, misalnya adat kebiasaan, asumsi-asumsi mengenai baik dan buruk, ataupun mengenai sesuatu yang boleh dan tidak boleh dilakukan.
     -Etika Normatif | Etika normatif tidak hanya mengemukakan fakta/deskripsi, namun juga sudah melakukan penilaian apakah ia menerima atau menolak suatu nilai atas dasar pertimbangan moral dan prinsip-prinsip etis.
     -Metaetika | Pendekatan lain mempraktekkan etika sebagai ilmu adalah metaetika yang bergerak pada level yang lebih tinggi dari sekedar perilaku etis, yaitu pada taraf "bahasa etis" atau bahasa yang digunakan di bidang moral.
+
+# Tindakan Tidak Etis
+Nilai-nilai yang menjadi pegangan dalam bertingkah laku menyebabkan timbulnya tindakan-tindakan yang bertentangan dengan nilai-nilai tersebut. Inilah yang dimaksud dengan tindakan yang tidak etis. Jan Hoesada menyebutkan ada beberapa faktor yang menjadi penyebabnya :
+
+    Kebutuhan individu | Kebutuhan yang tidak terpenuhi dapat memancing individu untuk melakukan tindakan yang tidak etis demi memenuhi kebutuhannya. Terutama didasari rasa malu atau besarnya keinginan untuk memenuhi kebutuhan tersebut.
+    Tidak ada pedoman | Karena tidak adanya pedoman atau prosedur baku untuk melakukan sesuatu, menyebabkan munculnya tindakan yang tidak etis. Hal ini membuka peluang bagi orang-orang untuk melakukan tindakan yang melanggar etika dalam lingkungan ataupun komunitasnya.
+    Perilaku dan kebiasaan individu | Hal ini terjadi karena kebiasaan individu dalam melakukan suatu hal yang biasa di lingkungannya, tetapi dianggap tidak etis di lingkungan yang lain. Kebiasaan individu haruslah menyesuaikan dengan tempat individu itu berada dan menerapkan etika atau aturan yang berlaku disana.
+    Lingkungan yang tidak etis | Tindakan seorang individu menjadi tidak etis juga bisa disebabkan oleh pengaruh lingkungan tempat dia berada, atau dalam artian kebiasaan tidak etis di suatu lingkungan mempengaruhi individu untuk mengikuti kebiasaan tidak etis tersebut.
+    Perilaku atasan | Karena rasa tidak enak terhadap atasan, dapat menyebabkan individu menuruti atau mengikuti perilaku atasan walaupun perilaku tersebut sebenarnya tidak etis untuk diikuti dan dipatuhi.
