@@ -15,3 +15,12 @@ orang lain, dikarenakan perkembangan teknologi untuk berkomunikasi secara online
 
 Faktor manusia dalam teknologi sangat penting. Ketika manusia membiarkan dirinya dikuasai teknologi, maka manusia yang lain akan mengalahkannya. Sebenarnya teknologi dikembangkan untuk membantu manusia dalam melaksanakan aktifitasnya. Hal itu karena manusia memiliki keterbatasan, keterbatasan inilah yang harus ditutupi oleh teknologi
 yang ada. Kendali penggunaan teknologi tetap sepenuhnya ada di tangan manusia. Oleh sebab itu, pendidikan manusiawi termasuk pelaksanaan norma dan etika kemanusiaannya tetap harus berada pada peringkat teratas serta tidak hanya melakukan pemujaan terhadap teknologi tinggi belaka. Manusia tetap faktor yang penting, dan teknologi hanya untuk mengatasi keterbatasan yang ada, bukan untuk menguasai diri manusia.
+
+# Permteasalahan dan Pembahasan Etika Teknologi
+Permasalahan yang ada pada perkembangan teknologi yang menyangkut etika masyarakat, yaitu :
+- Melihat pada perkembangan internet yang begitu pesat, maka perlu dibuat peraturan atau etika beraktifitas dalam dunia maya.
+- Etika merupakan ilmu pengetahuan yang berhubungan dengan upaya menentukan perbuatan yang dilakukan manusia untuk dikatakan baik atau buruk, dengan kata lain aturan atau pola tingkah laku yang dihasilkan oleh manusia
+
+Pembahasan dari permasalahan tersebut, yaitu.
+- Untuk menghindari penggunaan internet yang tidak baik, dapat dilakukan dengan cara melarang anak di bawah umur dengan bebas bermain internet. Kecuali untuk kepentingan pendidikan dan diharapkan kepada setiap orang yang membuka usaha warnet untuk tidak membuat situs yang tidak layak dilihat dan membatasi anak di bawah umur dalam menggunakan internet.
+- Untuk menghadapi tantangan teknologi, diharuskan membatasi hal-hal dalam teknologi yang berdampak buruk bagi kehidupan, supaya teknologi dapat dikendalikan.
