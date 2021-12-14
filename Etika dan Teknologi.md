@@ -1,0 +1,6 @@
+# Etika dan Teknologi
+Etika merupakanilmu pengetahuan yang berhubungan dengan upaya menentukan perbuatan yang dilakukan manusia untuk dikatakan baik atau buruk, dengan kata lain aturan atau pola tingkah laku yang dihasilkan oleh akal manusia. Jadi, dalam kaitannya menyangkut masa depan untuk menghadapi tantangan teknologi yang berdampak buruk dalam kehidupan, supaya teknologi dapat dikendalikan. Penggunaan internet pada zaman global ini semakin marak dirasakan dan juga semakin banyak situs-situs yang tidak baik dan tidak layak untuk dilihat oleh masyarakat. Dari permasalahan ini dapat disimpulkan bahwa penggunaan internet tergantung pada siapa yang menggunakannya. Jika disadari penggunaan internet yang baik, pasti tidak akan ada penyalahgunaan pemakaiannya dan sebalknya, jika digunakan untuk disalahgunakan, maka sangat tidak menunjukkan sifat yang memiliki etika.
+
+# Perkembangan Teknologi
+Perkembangan teknologi dan komunikasi akan terus berevolusi sejalan dengan sifat manusia yang tidak akan pernah berhenti bereksplorasi. Hal inilah yang akan membuat banyak perubahan dalam hidup bermasyarakat mulai dari budaya, kebiasaan, hingga teknologinya. Bicara soal teknologi masa depan, tentu saja tidak terlepas dari sektor
+digitalisasi dan inovasi.
